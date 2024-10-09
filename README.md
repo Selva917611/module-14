@@ -16,3 +16,4 @@ Launch an EC2 instance (Linux and Windows) along with a web server. Then, create
 ![Screenshot 2024-10-09 203654](https://github.com/user-attachments/assets/ef24724f-ed82-46b5-80ff-e18550a447e0)
 ![Screenshot 2024-10-09 203739](https://github.com/user-attachments/assets/015a87a3-f138-4596-9862-935ccf37eb45)
 ![Screenshot 2024-10-09 205029](https://github.com/user-attachments/assets/4b174f6d-203c-4071-b3b9-bcd3519bf36c)
+![Screenshot 2024-10-09 205525](https://github.com/user-attachments/assets/c5a48a79-6206-4ad0-88ed-69c1ac6785c7)
